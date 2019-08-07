@@ -23,7 +23,7 @@ public class Exercice07Aula79 {
 			}
 			System.out.println();
 		}
-		
+				
 		int x = sc.nextInt();
 		
 		for (int i=0; i<mat.length;i++) {
